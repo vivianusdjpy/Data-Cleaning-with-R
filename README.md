@@ -15,12 +15,17 @@ ontheir site and vice-versa.
 ### Define the Metric for Success
 
 Thorough Data Cleaning
+
 Perform Univariate analysis
+
 Perform Bivariate Analysis
 
 ### Experimental design
 
 Data Understanding
+
 Univariate Analysis
+
 Bivariate Analysis
+
 Plotting the summaries
